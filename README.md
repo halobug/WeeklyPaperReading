@@ -8,7 +8,7 @@
 
 ## 🌟 项目介绍
 
-**Weekly Paper** 是一个开源周报项目，提供：
+**Weekly Paper** 是一个开源论文周报项目，提供：
 
 * **每周精选论文**：人工挑选或综合指标推荐最值得阅读的论文
 * **详细信息**：论文标题、作者、领域、推荐指数、发布时间、摘要等
@@ -17,6 +17,6 @@
 目标是帮助你 **节省阅读时间**，**快速了解最新研究趋势**。
 
 ---
-## 自2025年第49周起：
+## 自2025年第47周起：
 
-[2025W49](https://github.com/halobug/WeeklyPaperReading/blob/main/2025/2025-W49.md)
+[2025W47](https://github.com/halobug/WeeklyPaperReading/blob/main/2025/2025-W47.md)
