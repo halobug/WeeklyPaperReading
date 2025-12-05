@@ -19,4 +19,7 @@
 ---
 ## 自2025年第47周起：
 
+[2025W48](https://github.com/halobug/WeeklyPaperReading/blob/main/2025/2025-W48.md)
+
 [2025W47](https://github.com/halobug/WeeklyPaperReading/blob/main/2025/2025-W47.md)
+
